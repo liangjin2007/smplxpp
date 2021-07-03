@@ -3,7 +3,7 @@
 	url = https://github.com/madler/zlib
 [submodule "3rdparty/eigen"]
 	path = 3rdparty/eigen
-	url = https://gitlab.com/libeigen/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
 [submodule "3rdparty/meshview"]
 	path = 3rdparty/meshview
 	url = https://github.com/sxyu/meshview
